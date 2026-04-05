@@ -1,4 +1,4 @@
-course_name ="设计类跨专业课程体系"
+course_name = "设计类跨专业课程体系"
 course_code = "Cross-ARCH"
 repo_type = "multi-project"
 description = """
